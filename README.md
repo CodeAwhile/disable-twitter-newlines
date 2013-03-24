@@ -22,3 +22,14 @@ Updating to the latest version is even easier than installing.
 1. `git pull` from the directory where you cloned the project
 1. Got to Tools -> Extensions in Chrome
 1. Find the "Disable Twitter Newlines" extension and click the "Reload" link
+
+Changelog
+---------
+
+#### 1.1 ####
+
+* Made handling of Twitter's pushstate behavior more robust
+
+#### 1.0 ####
+
+* Initial release
