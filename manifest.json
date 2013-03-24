@@ -1,15 +1,16 @@
 {
-   "content_scripts": [ {
-      "js": [ "script.js" ],
-      "matches": [ "*://twitter.com/*" ]
-   } ],
+   "name": "Disable Twitter Newlines",
+   "version": "1.1.1",
+   "manifest_version": 2,
+   
    "description": "Simple Chrome extension that disables newlines in tweets.",
    "icons": {
 	  "128": "disable-twitter-newline-large.png",
       "48": "disable-twitter-newline-small.png"
    },
-   "manifest_version": 2,
-   "name": "Disable Twitter Newlines",
-   "update_url": "http://clients2.google.com/service/update2/crx",
-   "version": "1.1"
+   
+   "content_scripts": [ {
+      "js": [ "script.js" ],
+      "matches": [ "*://twitter.com/*" ]
+   } ]
 }

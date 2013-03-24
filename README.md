@@ -20,6 +20,10 @@ https://chrome.google.com/webstore/detail/disable-twitter-newlines/pjegficckdnjd
 Changelog
 ---------
 
+#### 1.1.1 ####
+
+* Published to the Chrome store
+
 #### 1.1 ####
 
 * Made handling of Twitter's pushstate behavior more robust
