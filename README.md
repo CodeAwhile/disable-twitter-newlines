@@ -20,6 +20,10 @@ https://chrome.google.com/webstore/detail/disable-twitter-newlines/pjegficckdnjd
 Changelog
 ---------
 
+#### 1.2 ####
+
+* Updated to reflect changes in Twitter page structure
+
 #### 1.1.1 ####
 
 * Published to the Chrome store
