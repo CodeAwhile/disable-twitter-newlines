@@ -10,6 +10,8 @@ Twitter recently added a feature that preserves newlines in tweets.
 Many users find that annoying, which is why this extension exists.
 It returns tweets to their normal, collapsed state, as the creators of HTML intended :)
 
+To view a tweet with original whitespace, expand it.
+
 Installation
 ------------
 
@@ -19,6 +21,10 @@ https://chrome.google.com/webstore/detail/disable-twitter-newlines/pjegficckdnjd
 
 Changelog
 ---------
+
+#### 1.3.0 ####
+
+* Expanded tweets and permalink tweets maintain original whitespace and newlines
 
 #### 1.2 ####
 
